@@ -1,0 +1,1 @@
+<div class="text-[59px] text-center font-medium">Réduisez les cyberattaques en renforçant vos actions de cyberdéfense</div>
