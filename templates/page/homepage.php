@@ -11,6 +11,7 @@
             <?php include('templates/page/homepage/04_Cards.php') ?>
             <?php include('templates/page/homepage/05_Information.php') ?>
             <?php include('templates/page/homepage/06_Missions.php') ?>
+            <?php include('templates/page/homepage/07_Services.php') ?>
         </div>
     </div>
 
