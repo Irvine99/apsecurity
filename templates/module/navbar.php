@@ -2,7 +2,7 @@
     <nav class="flex container mx-auto items-center gap-10 items-end  ">
         <!-- Logo ou titre de la page -->
         <div class="text-white font-normal text-xl">
-            <a class="bg-[#D79800]/80 rounded-lg p-[6px]" href="#home">Accueil</a>
+            <a class="" href="?page=home">Accueil</a>
         </div>
         <div class="relative">
             <button id="dropdownButton" class="text-white hover:text-[#D79800] focus:outline-none transition duration-300">

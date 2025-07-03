@@ -13,6 +13,8 @@ $page = isset($_GET['page']) ? $_GET['page'] : 'home'; // Par défaut, on affich
 // Inclure la page spécifique demandée
 $valid_pages = [
     'home' => 'templates/page/homepage.php',
+    'mentions' => 'templates/page/mentionslegales.php',
+    'politique' => 'templates/page/politiqueConfidentialite.php',
     // Ajouter d'autres pages ici si nécessaire
     // 'seahawks' => 'page/projet/seahawks/homepage.php',
 ];

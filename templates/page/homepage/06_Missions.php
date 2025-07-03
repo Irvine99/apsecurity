@@ -14,11 +14,11 @@
         <img src="/assets/images/check.svg" class="h-8 w-8" alt="" srcset="">
         <div class=""><span class="underline font-bold">Évaluer</span> : Les autodiagnostics et audits vous permettront de connaître votre niveau de maturité face aux risques.</div>
     </div>
-        <div class="flex gap-2 items-end">
+        <div class="flex gap-2">
         <img src="/assets/images/check.svg" class="h-8 w-8" alt="" srcset="">
         <div class=""><span class="underline font-bold">Accompagner</span> : En mode projet, parcours cybersécurité ou externalisation du poste référent cybersécurité, nous vous accompagnons sur les moyens et mesures à mettre en place pour sécuriser votre patrimoine numérique.</div>
     </div>
-        <div class="flex gap-2 items-end">
+        <div class="flex gap-2 ">
         <img src="/assets/images/check.svg" class="h-8 w-8" alt="" srcset="">
         <div class=""><span class="underline font-bold">Former</span> : Le savoir est la clé pour un maintien de la cybersécurité. Nous sommes tous acteurs, mais pour cela il faut connaître les règles d’hygiène informatiques, les bonnes pratiques, les bons réflexes.</div>
     </div>
